@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ayman mansour</h2>
+<h2 align="left">Hi 👋! I’m Ayman Mansour — a Flutter Developer specializing in building clean, scalable, and high-performance mobile applications.</h2>
 
 ###
 
