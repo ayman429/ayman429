@@ -65,7 +65,11 @@
 </p>
 
 ---
+## 🧩 Brmja-Tech Projects
 
+[![seyanko_flutter](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=seyanko_flutter)](https://github.com/Brmja-Tech/seyanko_flutter)
+
+---
 ## 🔢 Profile Views
 <p>
   <img src="https://visitcount.itsvg.in/api?id=ayman429&icon=0&color=0" />
