@@ -65,9 +65,60 @@
 </p>
 
 ---
-## 🧩 Brmja-Tech Projects
+---
 
+## 🧩 Brmja-Tech Organization Projects
+
+### ⭐ seyanko_flutter  
+A service-request application that allows customers to hire technicians in various fields such as painting, carpentry, plumbing, and more.  
+The app provides price offers from technicians, in-app chat, live status tracking, and full workflow management.  
 [![seyanko_flutter](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=seyanko_flutter)](https://github.com/Brmja-Tech/seyanko_flutter)
+
+---
+
+## 🎓 School App  
+A complete school management application that helps students view their daily schedule, track daily tasks, access study materials, complete homework, and take exams in a seamless and professional way.  
+[![school](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=school)](https://github.com/Brmja-Tech/school)
+
+---
+
+## 🌟 El Motamizon App  
+An educational platform for Law students, allowing them to subscribe to courses for each academic year, watch lectures, view PDFs, and access structured educational content.  
+[![el_motamizon](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=el_motamizon)](https://github.com/Brmja-Tech/el_motamizon)
+
+---
+
+## 🏗️ Tashteebak – Three Applications
+
+### 1️⃣ tashteebak (Main App)  
+A marketplace application that simplifies ordering finishing and construction materials at competitive prices, helping customers reach trusted stores and suppliers.  
+[![tashteebak](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=tashteebak)](https://github.com/Brmja-Tech/tashteebak)
+
+### 2️⃣ tashteebakwarehouse  
+An application for store owners to upload their products, manage inventory, handle pricing, and reach customers efficiently.  
+[![tashteebakwarehouse](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=tashteebakwarehouse)](https://github.com/Brmja-Tech/tashteebakwarehouse)
+
+### 3️⃣ tashteebak_delivery  
+A delivery application to manage customer orders, track delivery routes, and confirm order completion professionally.  
+[![tashteebak_delivery](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=tashteebak_delivery)](https://github.com/Brmja-Tech/tashteebak_delivery)
+
+---
+
+## 🛒 Robino – Three Applications
+
+### 1️⃣ robino_flutter (Main App)  
+A full e-commerce application for ordering supermarket products at competitive prices with a smooth and modern UI experience.  
+[![robino_flutter](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=robino_flutter)](https://github.com/Brmja-Tech/robino_flutter)
+
+### 2️⃣ rubinowarehouse  
+An app for store owners to upload products, manage stock, update prices, and control product availability.  
+[![rubinowarehouse](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=rubinowarehouse)](https://github.com/Brmja-Tech/rubinowarehouse)
+
+### 3️⃣ rubinodelivery  
+A delivery application for viewing and handling orders, navigation to customers, and confirming successful delivery.  
+[![rubinodelivery](https://github-readme-stats.vercel.app/api/pin/?username=Brmja-Tech&repo=rubinodelivery)](https://github.com/Brmja-Tech/rubinodelivery)
+
+---
 
 ---
 ## 🔢 Profile Views
